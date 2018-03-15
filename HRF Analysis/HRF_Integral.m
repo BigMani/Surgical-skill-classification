@@ -1,0 +1,1 @@
+function output = HRF_Integral(data, time)
